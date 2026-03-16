@@ -13,7 +13,7 @@
 
 ## 📺 Official Video Guide
 To properly manage your drivers and use the DUI panel, follow this tutorial:
-👉 [**Watch: How to Clean Ghost Drivers**](https://www.youtube.com)
+👉 [**Watch: How to Clean Ghost Drivers**](https://youtube.com/shorts/vRJ_eOuZ_gI?si=no0OkOPK_KDiQrd8)
 
 ## 📸 Interface Preview (Windows 11)
 The script uses a **Deep Blue** professional console theme:
