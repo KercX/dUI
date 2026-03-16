@@ -1,35 +1,41 @@
-# 🚀 DUI - Device & Utility Improver (Blue Edition)
+# 🚀 DUI - Device & Utility Improver
 
-![License](https://img.shields.io)
-![Platform](https://img.shields.io)
-![Style](https://img.shields.io)
-
-**DUI** is a powerful open-source Batch utility designed to reduce system lag, clean junk files, and optimize hardware performance for Windows laptops.
-
-## 📺 Video Tutorial: Managing Drivers
-To understand how to manually remove "ghost" drivers using the DUI tool, watch this guide:
-👉 [**How to Remove Old/Hidden Drivers in Windows**](https://www.youtube.com)
-
-## ✨ Main Features
-- **Deep System Cleaning:** Automated removal of Temp, Prefetch, and DNS cache.
-- **Power Boost:** Forces Windows into High-Performance mode to reduce CPU throttling.
-- **Ghost Driver Unlocker:** Enables hidden devices in Device Manager for manual cleanup.
-- **Blue Visual Interface:** Professional terminal look for better readability.
-- **Auto-Restart:** Ensures all changes take effect immediately.
-
-## 🛠 How to Use
-1. **Download:** Get the `DUI.bat` file.
-2. **Run:** Right-click and select **"Run as Administrator"**.
-3. **Driver Cleanup:** When Device Manager opens, go to *View -> Show hidden devices* and delete faded icons.
-4. **Reboot:** Wait for the 15-second timer to restart your PC.
-
-## 📊 System Requirements
-- OS: Windows 10 / 11
-- Permissions: Administrative Rights
-- Architecture: x64 / x86
-
-## 🛡 Disclaimer
-This tool is provided "as is". Modifying system files can be risky. Always create a **System Restore Point** before running optimization scripts.
+<!-- BIG BADGES FROM SHIELDS.IO -->
+<p align="center">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+</p>
 
 ---
-*Developed with ❤️ for the community. Feel free to Fork and Star!*
+
+## 📺 Official Video Guide
+To properly manage your drivers and use the DUI panel, follow this tutorial:
+👉 [**Watch: How to Clean Ghost Drivers**](https://www.youtube.com)
+
+## 📸 Interface Preview (Windows 11)
+The script uses a **Deep Blue** professional console theme:
+
+
+| Service Panel | Driver Cleanup |
+| :---: | :---: |
+| <img src="https://img.shields.io" width="200"> | <img src="https://www.thewindowsclub.com" width="400"> |
+
+## 🛠 Features
+- **Blue Matrix UI:** Clear and professional visual style.
+- **Power Optimization:** Switches laptop to Ultimate Performance mode.
+- **Cache Purge:** Cleans Temp, Prefetch, and DNS.
+- **Driver Visibility:** Unlocks hidden devices for manual removal.
+- **SFC Scan:** Repairs corrupted Windows files automatically.
+
+## 🚀 How to Run
+1. Download `DUI.bat`.
+2. **Right-click** and select **Run as Administrator**.
+3. Wait for the blue window to finish.
+4. **Important:** When Device Manager opens, click **View > Show hidden devices** and delete old/grey icons.
+5. Your PC will restart in 20 seconds.
+
+---
+*Created by YourName. Don't forget to ⭐ this repository!*
