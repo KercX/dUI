@@ -1,26 +1,35 @@
-# 🚀 DUI - Device & Utility Improver
+# 🚀 DUI - Device & Utility Improver (Blue Edition)
 
 ![License](https://img.shields.io)
 ![Platform](https://img.shields.io)
+![Style](https://img.shields.io)
 
-**DUI** is a lightweight, powerful Batch-based utility designed to eliminate lags, optimize hardware performance, and assist in removing ghost drivers from your Windows laptop.
+**DUI** is a powerful open-source Batch utility designed to reduce system lag, clean junk files, and optimize hardware performance for Windows laptops.
 
-## 🌟 Key Features
-- **Deep Clean:** Removes junk from Temp and Prefetch folders.
-- **Turbo Mode:** Automatically switches Windows to High-Performance power plan.
-- **Driver Manager:** Unlocks hidden/old drivers in Device Manager for manual removal.
-- **DNS Flush:** Clears internet cache for better connectivity.
-- **System Repair:** Integrated SFC scan to fix corrupted files.
+## 📺 Video Tutorial: Managing Drivers
+To understand how to manually remove "ghost" drivers using the DUI tool, watch this guide:
+👉 [**How to Remove Old/Hidden Drivers in Windows**](https://www.youtube.com)
 
-## 🛠 Installation & Usage
-1. Download `DUI.bat`.
-2. **Right-click** the file and select **Run as Administrator** (Required).
-3. Follow the on-screen instructions.
-4. The system will automatically **reboot** after optimization to apply changes.
+## ✨ Main Features
+- **Deep System Cleaning:** Automated removal of Temp, Prefetch, and DNS cache.
+- **Power Boost:** Forces Windows into High-Performance mode to reduce CPU throttling.
+- **Ghost Driver Unlocker:** Enables hidden devices in Device Manager for manual cleanup.
+- **Blue Visual Interface:** Professional terminal look for better readability.
+- **Auto-Restart:** Ensures all changes take effect immediately.
 
-## ⚠️ Warning
-> This script modifies system settings and initiates a reboot. Save all your work before running. Use it at your own risk.
+## 🛠 How to Use
+1. **Download:** Get the `DUI.bat` file.
+2. **Run:** Right-click and select **"Run as Administrator"**.
+3. **Driver Cleanup:** When Device Manager opens, go to *View -> Show hidden devices* and delete faded icons.
+4. **Reboot:** Wait for the 15-second timer to restart your PC.
 
+## 📊 System Requirements
+- OS: Windows 10 / 11
+- Permissions: Administrative Rights
+- Architecture: x64 / x86
 
-*Created by [Kercx/KercX]*
+## 🛡 Disclaimer
+This tool is provided "as is". Modifying system files can be risky. Always create a **System Restore Point** before running optimization scripts.
 
+---
+*Developed with ❤️ for the community. Feel free to Fork and Star!*
